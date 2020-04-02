@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "com.potlov.vilkinet"
         versionCode = "10"
-        version     = "1.7.0">
+        version     = "1.8.0">
 
     <name>ВилкиНет</name>
 
@@ -40,12 +40,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/d1b86e37da6061ddb411da518adbc701.png" density="ldpi" />
-        <icon src="res/android/icon/92be94d93017d071a1051109a7eb5e22.png" density="mdpi" />
-        <icon src="res/android/icon/05cc149f7684d7395d963bae67ce6bb7.png" density="hdpi" />
-        <icon src="res/android/icon/72dd2f2719471f57cef712fc9cb91248.png" density="xhdpi" />
-        <icon src="res/android/icon/7d5598cff2df6659ba3985b8dff07df8.png" density="xxhdpi" />
-        <icon src="res/android/icon/4e43f62f7b1b3ffa035d5f3370899a3f.png" density="xxxhdpi" />
+        <icon src="res/android/icon/1a54092539fdc25bff031192837061c4.png" density="ldpi" />
+        <icon src="res/android/icon/bfb13316183fb01da20c6bccd79a5343.png" density="mdpi" />
+        <icon src="res/android/icon/8cb80a8d0684243e6d8fb44e83d321e0.png" density="hdpi" />
+        <icon src="res/android/icon/9c2f02ed16b8e60472384157dcc7545e.png" density="xhdpi" />
+        <icon src="res/android/icon/11fe53b5637855f5057b290cc4d20491.png" density="xxhdpi" />
+        <icon src="res/android/icon/6377e05104f0a59d7c7c5b9bbf80606c.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/420bf51b75653d0dcdab6e4b6810415a.png" density="port-hdpi"/>
         <splash src="res/android/screen/6a10430f1c9420c067ac6c9abbd9f486.png" density="port-ldpi"/>
